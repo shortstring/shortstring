@@ -28,7 +28,8 @@
         <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortstring&layout=compact&theme=dark)](https://github.com/shortstring/github-readme-stats)
+  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortstring)](https://github.com/shortstring/github-readme-stats)
 </div>
 
   <!--
