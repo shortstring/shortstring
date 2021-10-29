@@ -1,5 +1,5 @@
 <div align="center"> Hi, I'm Ashton 👋
-    <h3><b>Front End Developer Developer</b></h3>
+    <h3><b>Front End Developer</b></h3>
     <h3></h3>
     <h4>🌲Portland, Oregon</h4>
         <br>
