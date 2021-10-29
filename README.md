@@ -28,16 +28,10 @@
         <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     </div>
-    ![shortstring's github stats](https://github-readme-stats.vercel.app/api?username=shortstring&theme=dark&show_icons=true&hide_title=true)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortstring)](https://github.com/shortstring/github-readme-stats)
+  
+
 </div>
 
-<a href="https://github.com/shortstring/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shortstring&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/shortstring/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shortstring&repo=convoychat" />
-</a>
 
   <!--
 **shortstring/shortstring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
