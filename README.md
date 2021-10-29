@@ -32,6 +32,13 @@
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shortstring)](https://github.com/shortstring/github-readme-stats)
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shortstring&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shortstring&repo=convoychat" />
+</a>
+
   <!--
 **shortstring/shortstring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
