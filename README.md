@@ -1,6 +1,7 @@
 <div align="center"> Hi, I'm Ashton 👋
-    <h3><b>Front End Developer</b></h3>
-    <h3></h3>
+    <h3><b>Front End</b></h3>
+    <h3>Full Stack</h3>
+    <h3>Developer</h3>
     <h4>🌲Portland, Oregon</h4>
         <br>
     <h4>🖥️Languages and Tools</h4>
