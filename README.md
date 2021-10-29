@@ -2,7 +2,7 @@
     <h3><b>Full Stack Developer</b></h3>
       
     <h4>🌲Portland, Oregon</h4>
-        <br>
+    
     <h4>🖥️Languages and Tools</h4>
     <div>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
