@@ -1,5 +1,5 @@
 <div align="center"> Hi, I'm Ashton 👋
-    <h3><b>Self Employed Full Time Game Developer</b></h3>
+    <h3><b>Full Time Self Employed Game Developer</b></h3>
     <a href = "https://shortstring.github.io/Personal-Website/">Portfolio and Game Dev Blog</a>
     <br>  
     <h4>🌲Portland, Oregon</h4>
