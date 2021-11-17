@@ -1,5 +1,5 @@
 <div align="center"> Hi, I'm Ashton 👋
-    <h3><b>Full Stack Developer</b></h3>
+    <h3><b>Self Employed Full Time Unity Developer</b></h3>
     <br>  
     <h4>🌲Portland, Oregon</h4>
     <br>
