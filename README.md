@@ -1,6 +1,6 @@
 <div align="center"> Hi, I'm Ashton 👋
-    <h3><b>Self Employed Full Time Unity Developer</b></h3>
-    <a href = ""/>
+    <h3><b>Self Employed Full Time Game Developer</b></h3>
+    <a href = "">Game Dev Blog</a>
     <br>  
     <h4>🌲Portland, Oregon</h4>
     <br>
