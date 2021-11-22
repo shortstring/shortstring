@@ -1,4 +1,5 @@
 <div align="center"> Hi, I'm Ashton 👋
+    <br>
     <a href = "https://shortstring.github.io/Personal-Website/">Portfolio and Game Dev Blog</a>
     <br>  
     <h4>🌲Portland, Oregon</h4>
