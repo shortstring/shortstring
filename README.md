@@ -2,7 +2,7 @@
     <br>
     <a href = "https://shortstring.github.io/Personal-Website/">Portfolio and Game Dev Blog</a>
     <br>
-    <a href = "https://www.themoviereviewapplication.com/">Movie Review Application</a>
+    
     <br>  
     <h4>🌲Portland, Oregon</h4>
     <br>
