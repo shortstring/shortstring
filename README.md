@@ -1,7 +1,9 @@
 <div align="center"> Hi, I'm Ashton 👋
     <br>
-    <a href = "https://shortstring.github.io/spacefarmer/">*******</a> 
-    <br>  
+    <a href = "https://shortstring.github.io/spacefarmer/">_</a> 
+    <br>
+
+    Check out my games at : https://shortstring.itch.io/  
 </div>
 
 
