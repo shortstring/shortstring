@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ashton 👋</h1>
   <br>
-  <a href="https://shortstring.github.io/spacefarmer/">Game blog (no longer working on this game)</a>
+  <a href="https://shortstring.github.io/spacefarmer/">Game blog (blog is unused atm / old stuff on it)</a>
   <br>
   <a href="https://shortstring.itch.io/">Check out my games on itch</a>
 </div>
