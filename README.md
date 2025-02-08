@@ -1,11 +1,10 @@
-<div align="center"> Hi, I'm Ashton 👋
-    <br>
-    <a href = "https://shortstring.github.io/spacefarmer/">_</a> 
-    <br>
-
-    Check out my games at : https://shortstring.itch.io/  
+<div align="center">
+  <h1>Hi, I'm Ashton 👋</h1>
+  <br>
+  <a href="https://shortstring.github.io/spacefarmer/">Game blog (no longer working on this game)</a>
+  <br>
+  <a href="https://shortstring.itch.io/">Check out my games at: shortstring.itch.io</a>
 </div>
-
 
   <!--
 **shortstring/shortstring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
