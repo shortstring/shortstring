@@ -3,7 +3,7 @@
   <br>
   <a href="https://shortstring.github.io/spacefarmer/">Game blog (no longer working on this game)</a>
   <br>
-  <a href="https://shortstring.itch.io/">Check out my games at: shortstring.itch.io</a>
+  <a href="https://shortstring.itch.io/">Check out my games on itch</a>
 </div>
 
   <!--
